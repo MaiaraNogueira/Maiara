@@ -1,4 +1,4 @@
-# Olá eu sou Maiara 😃
+# Olá eu sou Maiara 
 <table>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=MaiaraNogueira&theme=dark&show_icons=true">
